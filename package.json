@@ -24,6 +24,7 @@
         "sweetalert2": "^11.4.33",
         "vue": "^3.2.36",
         "vue-router": "^4.1.5",
-        "vue-sweetalert2": "^5.0.5"
+        "vue-sweetalert2": "^5.0.5",
+        "vue3-select2-component": "^0.1.7"
     }
 }
